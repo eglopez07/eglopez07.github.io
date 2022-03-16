@@ -2,7 +2,7 @@
 layout: default
 title: About Me
 ---
-# About page
+# About Me
 
 Hi there. I am Erik G. Lopez, and if you couldn't tell already my handle uses my initials and last name. If you say "EGL" like a word, it sounds like "Eagle." This page will tell you a little bit about me.
 
